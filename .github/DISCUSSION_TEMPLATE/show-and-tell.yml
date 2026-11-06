@@ -1,0 +1,36 @@
+title: "[2026-11-13] Your name: what you modeled"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share a small model you found or built. AI-written and unfinished are both fine.
+        Answer what you can. Attach screenshots, a GIF, or a .zip of your files, or link a notebook or repo.
+  - type: textarea
+    id: what
+    attributes:
+      label: What does it model?
+      description: The concept or phenomenon, in a sentence or two.
+    validations:
+      required: true
+  - type: textarea
+    id: how
+    attributes:
+      label: How does it work?
+      description: Point to the parts and say what each one does.
+  - type: textarea
+    id: works
+    attributes:
+      label: Does it do what it's supposed to?
+  - type: textarea
+    id: leaves-out
+    attributes:
+      label: What does it leave out?
+  - type: textarea
+    id: surprised
+    attributes:
+      label: What surprised you?
+  - type: textarea
+    id: source
+    attributes:
+      label: Where did it come from?
+      description: Papers, tutorials, code you used. Was AI used, and have you checked it?
