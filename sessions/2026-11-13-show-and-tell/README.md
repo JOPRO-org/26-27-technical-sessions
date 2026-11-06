@@ -23,3 +23,4 @@ The reading group discussed its opening sections on 2026-10-01 ([session notes](
 | Folder | Model | By |
 |---|---|---|
 | [`example-thermostat`](example-thermostat/) | Thermostat with hysteresis | example (AI-drafted) |
+| [`example-homeostat`](example-homeostat/) | Simplified Ashby homeostat, four units | example (AI-drafted) |
