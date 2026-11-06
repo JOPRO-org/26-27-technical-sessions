@@ -11,7 +11,7 @@ The sessions draw on cognitive science, cybernetics, and multi-agent work. No ba
 
 | Folder | What it's for |
 |---|---|
-| [`sessions/`](sessions/) | One folder per Friday session, plus the Thursday reading list |
+| [`sessions/`](sessions/) | One folder per Friday session |
 | [`templates/`](templates/) | The short template for describing a model |
 | [`primer/`](primer/) | A growing guide to what can and can't usefully be simulated, built from what we try |
 | [`projects/`](projects/) | Work that has grown beyond a single session |
@@ -41,4 +41,4 @@ Notebooks can also be opened in Google Colab straight from GitHub. Each entry's 
 
 ## License
 
-[pending]
+MIT. See [`LICENSE`](LICENSE).
